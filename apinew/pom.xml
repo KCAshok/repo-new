@@ -27,7 +27,8 @@
 				<extensions>true</extensions>
 				<configuration>
 					<deploymentType>cloudhub</deploymentType>
-					<muleVersion>4.1.4</muleVersion>              
+					<muleVersion>4.1.4</muleVersion>
+					<repository>https://anypoint.mulesoft.com</repository>              
 					<username>askmgvl</username>
 					<password>Mgvl@123</password>
 					<redeploy>true</redeploy>
